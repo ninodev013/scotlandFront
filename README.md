@@ -1,22 +1,22 @@
-#Projeto: Scotland Yard
+# Projeto: Scotland Yard
 
-#Especificações Técnicas Obrigatórias
+# Especificações Técnicas Obrigatórias
 
 Desenvolver uma aplicação simples onde os livros do jogo scotland yard estarão disponiveis para visualização aumentando assim a dinamica do jogo.
 
-#Tecnologias utilizadas:
+# Tecnologias utilizadas:
 
-##Front-end
+## Front-end
 React;
 JavaScript (ES6+);
 HTML5;
 CSS3.
 
-#Backend
+## Backend
 NodeJS
 Postegres
 
-#O que aprendi:
+# O que aprendi:
 
 Gerenciamento de Estado: utilização do hook "useState" para controlar os dados da aplicação de forma reativa;
 
